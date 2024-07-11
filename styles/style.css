@@ -297,6 +297,44 @@
 
 
 
+/* inspire */
+
+.inspire{
+   
+    margin-left:250px;
+    margin-right: 250px;
+    text-align: center;
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+}
+
+.inspire-title{
+
+    padding-bottom: 20px;
+}
+
+.inspire-discription{
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-weight: 100;
+    font-size:small;
+  
+   
+}
+
+.inspire-video{
+    width:auto;;
+    padding: 20px;
+  
+
+}
+
+
+
 
 
 
