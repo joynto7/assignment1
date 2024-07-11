@@ -333,7 +333,160 @@
 
 }
 
+ 
 
+
+              /* target  */
+
+    
+               
+              #target{
+                padding-top: 100px;
+                font-family: "Azeret Mono", monospace;
+                font-optical-sizing: auto;
+                font-style: normal;
+                text-align: center;
+            
+             }      
+             
+             
+             .btn-3{
+                text-align: left;
+                padding-top: 5px;
+                
+              
+                
+                
+            }
+            
+            .btn-discription-3{
+                 font-family: "Azeret Mono", monospace;
+                font-optical-sizing: auto;
+                font-style: normal; 
+               text-decoration: underline;
+            
+                 padding-left: 5px;
+                padding-right: 8px;
+                padding-top: 5px;
+                padding-bottom: 8px;
+            
+            }
+            
+            
+            
+             
+            
+            
+             .target-items{
+                display: flex;
+             }
+            
+            
+             .target-item1{
+            
+                text-align: left;
+                padding-top: 15px;
+                padding-bottom: 20px;
+                padding-left: 40px;
+                padding-right: 40px;
+                background-color: rgb(235, 220, 215);
+                margin-left: 30px;
+                margin-right: 30px;
+            
+            
+             }
+            
+            .target-title{
+                padding-bottom: 30px;
+            
+            
+            
+            }
+            
+            .target-discription{
+            
+                font-weight: 100;
+                font-size:small;
+              
+            }
+            
+            
+            
+                
+            .image1-title{
+                font-family: "Azeret Mono", monospace;
+                font-optical-sizing: auto;
+                padding-top: 0px;
+                padding-bottom: 30px;
+            }
+              
+            
+            .image1-discription{
+            
+                font-family: "Azeret Mono", monospace;
+                font-optical-sizing: auto;
+            }
+            
+            
+            .target-item2{
+                text-align: left;
+                padding-top: 15px;
+                padding-bottom: 20px;
+                padding-left: 40px;
+                padding-right: 40px;
+                background-color: rgb(220, 223, 242);
+                margin-left: 30px;
+                margin-right: 30px;
+            
+            }
+            
+            
+            
+            
+            .image2-title{
+                font-family: "Azeret Mono", monospace;
+                font-optical-sizing: auto;
+                padding-top: 0px;
+                padding-bottom: 30px;
+            }
+            
+            .image2-discription{
+            
+                font-family: "Azeret Mono", monospace;
+                font-optical-sizing: auto;
+            }
+            
+            
+            
+            
+            .target-item3{
+                text-align: left;
+                padding-top: 15px;
+                padding-bottom: 20px;
+                padding-left: 40px;
+                padding-right: 40px;
+                background-color: rgb(247, 247, 232);
+                margin-left: 30px;
+                margin-right: 30px;
+            
+            }
+            
+            
+            
+            .image3-title{
+                font-family: "Azeret Mono", monospace;
+                font-optical-sizing: auto;
+                padding-top: 0px;
+                padding-bottom: 30px;
+            }
+            
+            .image3-discription{
+            
+                font-family: "Azeret Mono", monospace;
+                font-optical-sizing: auto;
+            }
+            
+            
 
 
 
