@@ -28,8 +28,8 @@
 
 
 
-#heading-parent{
-     background-image: url(/assets/Hero-bg.png);
+.heading-parent{
+     background-image: url(/styles/assets/Hero-bg.png);
     
 
     
@@ -486,7 +486,38 @@
                 font-optical-sizing: auto;
             }
             
-            
+/* footer & social link */
+
+
+.design{
+    padding-top: 80px;
+}
+
+.footer-items{
+
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(244, 237, 229);
+
+
+}
+
+.footer-font{
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    padding-top: 18px;
+    font-size: large;
+
+}
+
+#social-link{
+    display: flex;
+    gap: 40px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+   
+}
+             
 
 
 
