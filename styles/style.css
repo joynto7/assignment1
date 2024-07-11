@@ -29,48 +29,56 @@
 
 
 .heading-parent{
-     background-image: url(../styles/assets/herobg.png);
-    
-
-    
-    height: 652px; ;
-    width: 1500px; ;
-    text-align: center;
-   margin: 0px auto;
-   display:block ;
+    background-image: url(../styles/assets/herobg.png);
+    height: 652px; 
+    width: 1500px; 
+   text-align: center;
+   margin:80px;
+   padding-left: 48px;
+   /* display:block ; */
  
  
    
 }
 
+
+.header-contents{
+
+    /* text-align: center; */
+
+
+
+}
+
 .title{
-   width: 1440px;
+    width: 1440px;
    margin-top: 0px ;
-   margin-bottom: 140px;
+   margin-bottom: 80px;
    margin-left: auto;
    margin-right: auto;
    text-align: center;
    border-radius: 50px;
-    padding-top: 320px;
+    padding-top: 19px;
    padding-left: 80px;
    padding-right: 300px;
     font-size: 48px;
-   
+    
 }
 
  .subtitle{
-    margin-top: 60px;
-    margin-bottom: 8px;
+    /* margin-top: 8px;
+    margin-bottom: 8px; */
     text-align:center;
-    border: 100px;
+    border: 10px;
     font-weight: 700;
+    padding-top: 32px;
     
 }
 
 /* button styles */
 
 .btn-div{
-    padding-top: 25px ;
+    padding-top: 0px ;
 }
 
 
@@ -97,9 +105,9 @@
 
 .web-dev{
 
-    background-color: #f8f5f5;
+    background-color: #f8f8f8;
     margin: 125px;
-    margin-right: auto;
+    margin-right:125px;
     padding: 60px;
     text-align: center;
     
